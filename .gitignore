@@ -106,4 +106,4 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # ProtoBuf
-*.pb.*
+*.pb.*:wq
